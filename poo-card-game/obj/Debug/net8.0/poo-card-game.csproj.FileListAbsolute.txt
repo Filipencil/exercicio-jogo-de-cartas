@@ -1,0 +1,15 @@
+C:\Users\filip\jogodecartas_poo\poo-card-game\bin\Debug\net8.0\poo-card-game.exe
+C:\Users\filip\jogodecartas_poo\poo-card-game\bin\Debug\net8.0\poo-card-game.deps.json
+C:\Users\filip\jogodecartas_poo\poo-card-game\bin\Debug\net8.0\poo-card-game.runtimeconfig.json
+C:\Users\filip\jogodecartas_poo\poo-card-game\bin\Debug\net8.0\poo-card-game.dll
+C:\Users\filip\jogodecartas_poo\poo-card-game\bin\Debug\net8.0\poo-card-game.pdb
+C:\Users\filip\jogodecartas_poo\poo-card-game\obj\Debug\net8.0\poo-card-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\jogodecartas_poo\poo-card-game\obj\Debug\net8.0\poo-card-game.AssemblyInfoInputs.cache
+C:\Users\filip\jogodecartas_poo\poo-card-game\obj\Debug\net8.0\poo-card-game.AssemblyInfo.cs
+C:\Users\filip\jogodecartas_poo\poo-card-game\obj\Debug\net8.0\poo-card-game.csproj.CoreCompileInputs.cache
+C:\Users\filip\jogodecartas_poo\poo-card-game\obj\Debug\net8.0\poo-card-game.sourcelink.json
+C:\Users\filip\jogodecartas_poo\poo-card-game\obj\Debug\net8.0\poo-card-game.dll
+C:\Users\filip\jogodecartas_poo\poo-card-game\obj\Debug\net8.0\refint\poo-card-game.dll
+C:\Users\filip\jogodecartas_poo\poo-card-game\obj\Debug\net8.0\poo-card-game.pdb
+C:\Users\filip\jogodecartas_poo\poo-card-game\obj\Debug\net8.0\poo-card-game.genruntimeconfig.cache
+C:\Users\filip\jogodecartas_poo\poo-card-game\obj\Debug\net8.0\ref\poo-card-game.dll
